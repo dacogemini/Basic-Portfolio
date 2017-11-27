@@ -1,0 +1,42 @@
+
+.header {
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: auto;
+    
+}
+.text {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(37, 211, 199);
+    color:  white;
+    width: 15%;
+    height: auto;
+    margin-left: 100px;
+}
+.about {
+     display: flex;
+     justify-content: flex-start;
+     background-color:  white;
+     color : gray;
+     width: 5%;
+     height: auto;
+     margin-left: 600px;
+}
+.portfolio {
+    display: flex;
+     background-color:  white;
+     color: gray;
+    justify-content: center;
+    width: 8%;
+    height: auto;
+}
+.contact {
+    display: flex;
+    background-color: white;
+    color: gray;
+    justify-content: center;
+    width: 7%;
+    height: auto;
+}
